@@ -1,2 +1,6 @@
 # MechanicalRegions
-An example of domain driven development.
+This is a learning project. 
+
+ASP.NET Core 2.2 Web API
+
+Using Domain Driven Design

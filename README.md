@@ -1,2 +1,2 @@
 # MechanicalRegions
-An example of domain driven development with a real world use.
+An example of domain driven development.
